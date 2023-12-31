@@ -3,10 +3,10 @@ info = {
    "Name": "Aditya",
    "Full_Name": "Aditya Singampalli",
    "Intro": "A Tech and AI Enthusiast at Granada High School in Livermore",
-   "About":"Hey there, I'm Vicky! I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business. Check out my free courses and projects on cognitiveclass.ai: https://cognitiveclass.ai/",
+   "About":"Hey there, I'm Aditya! I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business. Check out my free courses and projects on cognitiveclass.ai: https://cognitiveclass.ai/",
    "Tableau":"https://public.tableau.com/app/profile/vickytc/viz/SunnybrookTeam/Overview",
    "Medium":"https://medium.com/@vicky-note/about",
-   "City":"Toronto, Canada",
+   "City":"Livermore, California",
    "Photo":"""<a href=\"https://www.linkedin.com/in/vicky-tck/\"><img src=\"https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/profile.png" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
    "Email": "vicky.kuo.contact@gmail.com"
 }
