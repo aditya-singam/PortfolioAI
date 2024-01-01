@@ -7,7 +7,7 @@ info = {
    "Tableau":"https://public.tableau.com/app/profile/vickytc/viz/SunnybrookTeam/Overview",
    "Medium":"https://medium.com/@vicky-note/about",
    "City":"Livermore, California",
-   "Photo":"""<a href=\"https://www.linkedin.com/in/vicky-tck/\"><img src=\"https://sn-assets.s3.us.cloud-object-storage.appdomain.cloud/projects/profile.png" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
+   "Photo":"""<a href=\"https://www.linkedin.com/in/aditya-singampalli-a18666292/\"><img src=\"file:///Users/adityasingampalli/Downloads/AdityasPic.png" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
    "Email": "aditya.singam279@gmail.com"
 }
 
