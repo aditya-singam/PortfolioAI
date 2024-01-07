@@ -1,42 +1,68 @@
 About Aditya :
 
-Aditya is a seasoned professional with expertise in AI, Data Science, Blockchain, and Cloud technologies. Holding an undergraduate degree in Computer Science from the University of Techville (2010), Vicky is committed to delivering innovative solutions and offers valuable resources at cognitiveclass.ai.
+Aditya is a sophomore at Granada High School with a deep passion for all things computer science related, mainly artificial intelligence and machine learning. He is particularly interested in researching the implications of AI-integrated education. 
 
-Work Experience:
-Data Scientist at IBM (2015-2019); Software Developer at IBM (2010-2015)
+Project Experience:
 
-Career Goal:
-Vicky's career goal is to leverage their expertise in AI and emerging technologies to drive meaningful innovation and create solutions that positively impact businesses and society.
+Founder - AIallstars.org  - Livermore, CA 	                      				                
+Created an artificial intelligence informational website that provides visitors with information about artificial intelligence, and sources to learn more about the field. 
+Hosts knowledge of the various subfields within artificial intelligence such as NLP and computer vision. 
+
+AI Scholar  - Inspirit AI, Palo Alto CA 	                      				                Jan 2023 - April 2023
+Learned about applications of AI in criminal justice under a Stanford Undergrad specializing in AI
+Worked together with a cohort of other students to create a machine-learning model that predicts recidivism rates of former inmates with and without race data.
+Presented our results to parents and the Inspirit AI board and received a certificate for our project.
+
+Data Science Scholar  - ATDP UC Berkeley, CA 	                                                                July 2023 - August 2023
+Learned the fundamentals of data science and machine learning under a Berkeley Ph.D. Student
+Created a statistical model that predicts video game sales worldwide based on a variety of factors like genre, age, and U.S sale
+Received a 100% score on my project and was praised by my instructor for adeptly evaluating model accuracy through metrics like Mean Squared Error (MSE) and using train/test split methodology in machine learning.
+
+
+Academic Goal:
+Aditya's academic goals are to extract a deep understanding of artificial intelligence and explore its applications in other fields such as medicine, education, and business. 
 
 Skills: 
-AI, Data Science, Blockchain, Cloud, Python
+Programming Languages: Python, Java, JavaScript, HTML, SQL, C#
+AI/ML/Tools: NumPy, Pandas, Scikit-learn, Matplotlib, Git, Google Sites
 
-Certification:
-IBM Applied AI Professional Certificate (2023)
+Awards/Honors:
+Top Scholar (School,9,10) Awarded by Granada High School, 4.0+ GPA
+Principal’s honor roll (School, 9,10) Awarded by Granada High School, 3.8+ GPA
+Second place in the Georgiana Hayes Invitational debate tournament 
+First-degree black belt in taekwondo 
+Project Certificate awarded by Inspirit AI
 
-Achievements:
-Spearheaded AI projects at IBM, resulting in a 30% increase in user engagement.
-Utilized IBM's watsonx service to help over 1000 companies from various domains automate their HR processes, from hiring to onboarding, contributing to a 100% positive feedback rate from companies.
+Activities:
+
+Speech & Debate Club - 				           	        	                                  	      Meets every Friday for one hour to discuss different debating techniques as well as participate in practice debates.
+Participate in Debate tournaments and invitationals every month or every other month where we participate in parliamentary-style debates with two people per team 
+
+Artificial Intelligence Club - 				 		                  	            
+Meets every other Thursday to discuss various different topics within artificial intelligence and meet with experienced individuals in the field
+We explore the applications of artificial intelligence in other fields using tools such as TensorFlow 
+
+Video Game Creation Club -                                                                                                          September 2022 - Present
+Meets every other Friday to work on a fully functional 2D game.
+I’m currently SFX lead within the club and head all operations in creating game themes and sound effects
+
+Stanford Math Circle -                                                                                                                        October 2023 - Present
+Meets every Wednesday through Zoom with a guest instructor to discuss various topics in math
+
+Community Service - 
+Active volunteer at the Quest Science Center and the Shiva Vishnu Temple in Livermore
+
 
 Contact:
-LinkedIn: https://www.linkedin.com/in/vicky-tck
+LinkedIn: https://www.linkedin.com/in/aditya-singampalli-a18666292/
 Phone: 123-456-789
-Location: Toronto, Ontario
+Location: Livermore, California 
 
 Strengths and Advantages:
-Vicky's strengths lie in a profound passion for technology, innovative problem-solving, and client-centric solutions.
+Aditya's strengths lie in a profound passion for technology, innovative problem-solving, and curiousity for all things.
 
 Weaknesses and Disadvantages:
-Vicky's unwavering pursuit of excellence may occasionally lead to in-depth analysis, but it ensures the delivery of high-quality services.
+Aditya's weaknesses mainly are in his introverted personality making it more difficult for him to network and form connections. 
 
 Interests and Hobbies:
-Vicky's passion for technology extends into leisure hours, where they delve into the cutting-edge realm of GenAI, continuously pushing the boundaries of what can be achieved in various projects. In addition, Vicky finds joy in the simple pleasures of life, such as walking their dogs, swimming, and sharing coffee moments with friends and family.
-
-Portfolio:
-Explore Vicky's portfolio of innovative projects at cognitiveclass.ai, showcasing expertise and tailored solutions. This website also serves as a showcase for some of Vicky's remarkable projects. Constructed using generative AI and Python, the website aims to inspire visitors with innovative ideas on seamlessly integrating generative AI into their own portfolio websites. Feel free to explore and ignite your creativity!
-
-Availability:
-Vicky is actively seeking new opportunities and is ready to start immediately.
-
-References:
-References are available upon request.
+My interests are mainly in artificial intelligences and machine learning. My hobbies are playing basketball, video games, and reading. 
