@@ -14,8 +14,6 @@ st.sidebar.markdown(info['Photo'],unsafe_allow_html=True)
 
 st.title("📝 Resume")
 
-st.write("[Click here if it's blocked by your browser](https://cognitiveclass.ai/)")
-
 img_3 = Image.open("images/resume.png")
 st.image(img_3)
 
