@@ -153,10 +153,11 @@ with st.container():
     st.subheader('✍️ AIAllStars.org')
     col1,col2 = st.columns([0.95, 0.05])
     with col1:
-        with st.expander('Display my website'):
-            components.html(embed_rss['rss'],height=400)
-            
-        st.markdown(""" <a href={}> <em>🔗 access to the link </a>""".format(info['aiallstars']), unsafe_allow_html=True)
+        with st.expander('Preview my AI informational website'):
+            #components.html(embed_rss['rss'],height=400)
+            aistarsimg = Image.open("images/aiallstarssite.png")
+            st.image(aistarsimg)
+            st.markdown(""" <a href={}> <em>🔗 access to AIAllStars.org </a>""".format(info['aiallstars']), unsafe_allow_html=True)
 
 
 # -----------------  endorsement  ----------------- #
