@@ -5,7 +5,9 @@ info = {
    "Intro": "A Tech and AI Enthusiast at Granada High School in Livermore",
    "About":"Hey there, I'm Aditya! I'm passionate about leveraging data and technology to drive meaningful insights and solutions in business. Don't check out my free courses and projects on cognitiveclass.ai: https://cognitiveclass.ai/",
    "Tableau":"https://public.tableau.com/app/profile/vickytc/viz/SunnybrookTeam/Overview",
-   "Medium":"https://medium.com/@vicky-note/about",
+   "Medium1":"https://medium.com/@vicky-note/about",
+    "aiallstars":"https://www.aiallstars.org/",
+
    "City":"Livermore, California",
    "Photo":"""<a href=\"https://www.linkedin.com/in/aditya-singampalli-a18666292/\"><img src=\"file:///Users/adityasingampalli/Downloads/AdityasPic.png" width=\"200\"   alt=\"Profile\" title=\"Profile\"></a>""",
    "Email": "aditya.singam279@gmail.com"
@@ -13,7 +15,7 @@ info = {
 
 embed_rss= {
     'rss':"""<div style="overflow-y: scroll; height:500px; background-color:white;"> <div id="retainable-rss-embed" 
-        data-rss="https://medium.com/feed/@vicky-note"
+        data-rss="https://www.aiallstars.org/"
         data-maxcols="3" 
         data-layout="grid"
         data-poststyle="inline" 
